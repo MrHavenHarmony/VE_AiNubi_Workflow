@@ -12,7 +12,7 @@ A 16:9 cinematic photorealistic rain film. Each numbered item is planned as one 
 - Submit in batches of five; wait for capacity before starting the next batch.
 - Make every image prompt and camera move specific to its scene.
 
-The first six scene requests were submitted during this run. Scene 1–4 used generated stills with image-to-video prompts; scenes 5–6 used direct text-to-video. Remaining entries are storyboard prompts awaiting generation, not completed clips.
+The first 11 scene requests have been submitted during this run. Scenes 1–4 used generated stills with image-to-video prompts; scenes 5–11 used direct text-to-video. Submission does not mean the clips have finished rendering. Scenes 12–100 remain storyboard prompts awaiting generation.
 
 ## Scene list
 
@@ -22,11 +22,11 @@ The first six scene requests were submitted during this run. Scene 1–4 used ge
 004. Rocky lighthouse coast — slow push through rain and sea mist (submitted)
 005. Old-city cobblestone lane — street-level dolly under dripping tiled roofs (submitted)
 006. Historic railway platform — lateral move below iron canopy and amber lamps (submitted)
-007. Bamboo grove — upward tilt through rain-bent green stalks
-008. Cherry orchard pond — raindrops dimple water among floating petals
-009. Terraced rice valley — high overlook across flooded stepped fields
-010. Tropical waterfall basin — mist and rainfall merge above black stone
-011. Mountain pass — cloud shelf slides across a rain-veiled ridge
+007. Bamboo grove — upward tilt through rain-bent green stalks (submitted)
+008. Cherry orchard pond — raindrops dimple water among floating petals (submitted)
+009. Terraced rice valley — high overlook across flooded stepped fields (submitted)
+010. Tropical waterfall basin — mist and rainfall merge above black stone (submitted)
+011. Mountain pass — cloud shelf slides across a rain-veiled ridge (submitted)
 012. Wooden footbridge — centered approach as a swollen creek passes beneath
 013. Greenhouse roof — tracking beads of rain over glass and leafy silhouettes
 014. Autumn maple courtyard — red leaves swirl in circular puddles
@@ -114,3 +114,5 @@ The first six scene requests were submitted during this run. Scene 1–4 used ge
 096. Sunrise over flooded salt flats — rain clouds thin into peach-colored light
 097. Forest clearing at dawn — final drops fall from leaves as fog lifts
 098. Still lake at first light — last raindrop rings fade beneath a clearing sky
+099. Rain on a glass observatory dome — slow tilt from water beads to a cloud break at blue hour
+100. Storm clearing over a quiet harbor — final aerial pull-back as rain curtains retreat and silver water settles
