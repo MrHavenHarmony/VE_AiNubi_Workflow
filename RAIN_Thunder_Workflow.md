@@ -46,4 +46,4 @@ A calm, cinematic rain film made from distinct 10-second landscape clips. This f
 
 ## Current run
 
-The first three scene videos have been submitted in VideoExpress; a fourth coastal scene image is being prepared. Check the project’s Media Library for generation status before assembling or exporting a final movie. These examples describe the current prompts and settings; they do not certify that a completed combined film has been exported.
+For the current 100-scene run, requests 1–11 have been submitted; the remaining scenes are not yet generated. The Media Library shows active renders and previously completed AI video assets. Confirm all 100 clips are ready before assembling or exporting the final film. These sample prompts and settings do not certify that a completed combined film has been exported.
