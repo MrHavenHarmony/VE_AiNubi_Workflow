@@ -12,7 +12,7 @@ A 16:9 cinematic photorealistic rain film. Each numbered item is planned as one 
 - Submit in batches of five; wait for capacity before starting the next batch.
 - Make every image prompt and camera move specific to its scene.
 
-The first 11 scene requests have been submitted during this run. Scenes 1–4 used generated stills with image-to-video prompts; scenes 5–11 used direct text-to-video. Submission does not mean the clips have finished rendering. Scenes 32–100 remain storyboard prompts awaiting generation.
+The first 11 scene requests have been submitted during this run. Scenes 1–4 used generated stills with image-to-video prompts; scenes 5–11 used direct text-to-video. Submission does not mean the clips have finished rendering. Scenes 37–100 remain storyboard prompts awaiting generation.
 
 ## Scene list
 
@@ -47,11 +47,11 @@ The first 11 scene requests have been submitted during this run. Scenes 1–4 us
 029. Red-rock canyon — crane reveal of a sudden rain-fed wash (submitted)
 030. Cave waterfall chamber — still pool catches drops beneath stone arches (submitted)
 031. Ancient aqueduct — tracking along wet arches fading into mist (submitted)
-032. Monastery courtyard — rain gathers in a quiet central basin
-033. Pagoda roofline — tilt through layered eaves and falling rain
-034. Moss-covered castle ruin — push through an open arch toward a stormy garden
-035. Old watermill — wheel turns slowly under a heavy rain stream
-036. Railway tunnel portal — water runs from the stone mouth into fog
+032. Monastery courtyard — rain gathers in a quiet central basin (submitted)
+033. Pagoda roofline — tilt through layered eaves and falling rain (submitted)
+034. Moss-covered castle ruin — push through an open arch toward a stormy garden (submitted)
+035. Old watermill — wheel turns slowly under a heavy rain stream (submitted)
+036. Railway tunnel portal — water runs from the stone mouth into fog (submitted)
 037. Suspension bridge — wide view of cables vanishing into rain cloud
 038. Stone viaduct — long lateral shot above a mist-filled valley
 039. Neon-lit city window — raindrops distort colored signs into soft bokeh
