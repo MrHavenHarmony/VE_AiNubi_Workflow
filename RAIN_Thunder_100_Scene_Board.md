@@ -12,7 +12,7 @@ A 16:9 cinematic photorealistic rain film. Each numbered item is planned as one 
 - Submit in batches of five; wait for capacity before starting the next batch.
 - Make every image prompt and camera move specific to its scene.
 
-The first 11 scene requests have been submitted during this run. Scenes 1–4 used generated stills with image-to-video prompts; scenes 5–11 used direct text-to-video. Submission does not mean the clips have finished rendering. Scenes 87–100 remain storyboard prompts awaiting generation.
+The first 11 scene requests have been submitted during this run. Scenes 1–4 used generated stills with image-to-video prompts; scenes 5–11 used direct text-to-video. Submission does not mean the clips have finished rendering. Scenes 92–100 remain storyboard prompts awaiting generation.
 
 ## Scene list
 
@@ -102,11 +102,11 @@ The first 11 scene requests have been submitted during this run. Scenes 1–4 us
 084. Basalt columns — wet geometric cliffs frame breaking waves (submitted)
 085. Water-carved slot canyon — trickles trace red sandstone in a soft storm (submitted)
 086. Desert oasis — palm reflections shimmer under a brief rainfall (submitted)
-087. Prairie grain silo — rain sweeps across a flat horizon at sunset
-088. Open wheat field — bowed stalks ripple beneath a distant thunder roll
-089. Meadow footpath — puddles reflect wildflowers and a clearing sky
-090. Country stone wall — slow tracking shot along wet lichen and clover
-091. Covered wooden bus stop — empty bench faces a rain-blurred road
+087. Prairie grain silo — rain sweeps across a flat horizon at sunset (submitted)
+088. Open wheat field — bowed stalks ripple beneath a distant thunder roll (submitted)
+089. Meadow footpath — puddles reflect wildflowers and a clearing sky (submitted)
+090. Country stone wall — slow tracking shot along wet lichen and clover (submitted)
+091. Covered wooden bus stop — empty bench faces a rain-blurred road (submitted)
 092. Rural railway crossing — warning lights glow through mist on wet rails
 093. Bridge beneath arch — camera glides along the river from sheltered stone
 094. Old harbor lighthouse interior window — lantern glass beads with sea spray
