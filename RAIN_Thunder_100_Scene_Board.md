@@ -12,7 +12,7 @@ A 16:9 cinematic photorealistic rain film. Each numbered item is planned as one 
 - Submit in batches of five; wait for capacity before starting the next batch.
 - Make every image prompt and camera move specific to its scene.
 
-The first 11 scene requests have been submitted during this run. Scenes 1–4 used generated stills with image-to-video prompts; scenes 5–11 used direct text-to-video. Submission does not mean the clips have finished rendering. Scenes 67–100 remain storyboard prompts awaiting generation.
+The first 11 scene requests have been submitted during this run. Scenes 1–4 used generated stills with image-to-video prompts; scenes 5–11 used direct text-to-video. Submission does not mean the clips have finished rendering. Scenes 72–100 remain storyboard prompts awaiting generation.
 
 ## Scene list
 
@@ -82,11 +82,11 @@ The first 11 scene requests have been submitted during this run. Scenes 1–4 us
 064. Highland moor — lone stream winds through heather beneath distant thunder (submitted)
 065. Waterfall lookout — rain jacket-free empty platform faces a veiled cascade (submitted)
 066. Birch forest — pale trunks repeat through silver rainfall (submitted)
-067. Redwood grove — vertical tilt follows water down immense bark
-068. Fern canyon — narrow tracking move between dripping green walls
-069. Snowmelt creek — rain hits clear water beside lingering mountain snow
-070. Autumn riverbank — orange leaves collect along the edge of a dark river
-071. Willow-lined pond — hanging branches brush the rain-dappled surface
+067. Redwood grove — vertical tilt follows water down immense bark (submitted)
+068. Fern canyon — narrow tracking move between dripping green walls (submitted)
+069. Snowmelt creek — rain hits clear water beside lingering mountain snow (submitted)
+070. Autumn riverbank — orange leaves collect along the edge of a dark river (submitted)
+071. Willow-lined pond — hanging branches brush the rain-dappled surface (submitted)
 072. Lotus marsh — wide shot across reeds and lotus leaves in a warm storm
 073. Rice-farm irrigation gate — rainwater pours through a wooden sluice
 074. Tea plantation hillside — parallel rows disappear into low cloud
