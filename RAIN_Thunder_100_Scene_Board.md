@@ -12,7 +12,7 @@ A 16:9 cinematic photorealistic rain film. Each numbered item is planned as one 
 - Submit in batches of five; wait for capacity before starting the next batch.
 - Make every image prompt and camera move specific to its scene.
 
-The first 11 scene requests have been submitted during this run. Scenes 1–4 used generated stills with image-to-video prompts; scenes 5–11 used direct text-to-video. Submission does not mean the clips have finished rendering. Scenes 72–100 remain storyboard prompts awaiting generation.
+The first 11 scene requests have been submitted during this run. Scenes 1–4 used generated stills with image-to-video prompts; scenes 5–11 used direct text-to-video. Submission does not mean the clips have finished rendering. Scenes 77–100 remain storyboard prompts awaiting generation.
 
 ## Scene list
 
@@ -87,11 +87,11 @@ The first 11 scene requests have been submitted during this run. Scenes 1–4 us
 069. Snowmelt creek — rain hits clear water beside lingering mountain snow (submitted)
 070. Autumn riverbank — orange leaves collect along the edge of a dark river (submitted)
 071. Willow-lined pond — hanging branches brush the rain-dappled surface (submitted)
-072. Lotus marsh — wide shot across reeds and lotus leaves in a warm storm
-073. Rice-farm irrigation gate — rainwater pours through a wooden sluice
-074. Tea plantation hillside — parallel rows disappear into low cloud
-075. Coffee plantation path — droplets fall from broad leaves above dark soil
-076. Banana grove — rain drums on broad leaves with distant thunder
+072. Lotus marsh — wide shot across reeds and lotus leaves in a warm storm (submitted)
+073. Rice-farm irrigation gate — rainwater pours through a wooden sluice (submitted)
+074. Tea plantation hillside — parallel rows disappear into low cloud (submitted)
+075. Coffee plantation path — droplets fall from broad leaves above dark soil (submitted)
+076. Banana grove — rain drums on broad leaves with distant thunder (submitted)
 077. Coconut shoreline — palms bend gently above a rain-swept lagoon
 078. Coral-island lagoon — rain dimples shallow turquoise water beneath gray sky
 079. Remote island pier — single beacon reflected in a wind-ruffled bay
