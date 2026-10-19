@@ -12,7 +12,7 @@ A 16:9 cinematic photorealistic rain film. Each numbered item is planned as one 
 - Submit in batches of five; wait for capacity before starting the next batch.
 - Make every image prompt and camera move specific to its scene.
 
-The first 11 scene requests have been submitted during this run. Scenes 1–4 used generated stills with image-to-video prompts; scenes 5–11 used direct text-to-video. Submission does not mean the clips have finished rendering. Scenes 12–100 remain storyboard prompts awaiting generation.
+The first 11 scene requests have been submitted during this run. Scenes 1–4 used generated stills with image-to-video prompts; scenes 5–11 used direct text-to-video. Submission does not mean the clips have finished rendering. Scenes 22–100 remain storyboard prompts awaiting generation.
 
 ## Scene list
 
@@ -27,16 +27,16 @@ The first 11 scene requests have been submitted during this run. Scenes 1–4 us
 009. Terraced rice valley — high overlook across flooded stepped fields (submitted)
 010. Tropical waterfall basin — mist and rainfall merge above black stone (submitted)
 011. Mountain pass — cloud shelf slides across a rain-veiled ridge (submitted)
-012. Wooden footbridge — centered approach as a swollen creek passes beneath
-013. Greenhouse roof — tracking beads of rain over glass and leafy silhouettes
-014. Autumn maple courtyard — red leaves swirl in circular puddles
-015. Apple orchard rows — slow passage beneath wet branches and fruit
-016. Vineyard slope — low lateral drift across rain-dark grape leaves
-017. Storm lake overlook — distant lightning outlines layered hills
-018. Lily pond — macro glide past water lilies and spreading rings
-019. River ferry landing — empty wooden pier disappears into rain fog
-020. Old canal bend — reflections stretch beneath stone bridges
-021. Seaside boardwalk — wave spray crosses rain-glossed planks
+012. Wooden footbridge — centered approach as a swollen creek passes beneath (submitted)
+013. Greenhouse roof — tracking beads of rain over glass and leafy silhouettes (submitted)
+014. Autumn maple courtyard — red leaves swirl in circular puddles (submitted)
+015. Apple orchard rows — slow passage beneath wet branches and fruit (submitted)
+016. Vineyard slope — low lateral drift across rain-dark grape leaves (submitted)
+017. Storm lake overlook — distant lightning outlines layered hills (submitted)
+018. Lily pond — macro glide past water lilies and spreading rings (submitted)
+019. River ferry landing — empty wooden pier disappears into rain fog (submitted)
+020. Old canal bend — reflections stretch beneath stone bridges (submitted)
+021. Seaside boardwalk — wave spray crosses rain-glossed planks (submitted)
 022. Black-sand beach — oblique view of rain curtains over foaming surf
 023. Sea cave mouth — camera withdraws as rain and tide meet at the threshold
 024. Shipwreck shore — slow orbit around a weathered hull in storm surf
