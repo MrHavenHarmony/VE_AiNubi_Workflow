@@ -12,7 +12,7 @@ A 16:9 cinematic photorealistic rain film. Each numbered item is planned as one 
 - Submit in batches of five; wait for capacity before starting the next batch.
 - Make every image prompt and camera move specific to its scene.
 
-The first 11 scene requests have been submitted during this run. Scenes 1–4 used generated stills with image-to-video prompts; scenes 5–11 used direct text-to-video. Submission does not mean the clips have finished rendering. Scenes 62–100 remain storyboard prompts awaiting generation.
+The first 11 scene requests have been submitted during this run. Scenes 1–4 used generated stills with image-to-video prompts; scenes 5–11 used direct text-to-video. Submission does not mean the clips have finished rendering. Scenes 67–100 remain storyboard prompts awaiting generation.
 
 ## Scene list
 
@@ -77,11 +77,11 @@ The first 11 scene requests have been submitted during this run. Scenes 1–4 us
 059. Old stone fountain alley — water overflows into patterned paving (submitted)
 060. Canal-side brick warehouses — mooring ropes and ripples in blue twilight (submitted)
 061. Harbor breakwater — low push toward waves breaking over wet stone (submitted)
-062. Cliffside chapel — rain clouds part briefly behind a small bell tower
-063. Alpine glacier lake — wind-driven rain textures turquoise water
-064. Highland moor — lone stream winds through heather beneath distant thunder
-065. Waterfall lookout — rain jacket-free empty platform faces a veiled cascade
-066. Birch forest — pale trunks repeat through silver rainfall
+062. Cliffside chapel — rain clouds part briefly behind a small bell tower (submitted)
+063. Alpine glacier lake — wind-driven rain textures turquoise water (submitted)
+064. Highland moor — lone stream winds through heather beneath distant thunder (submitted)
+065. Waterfall lookout — rain jacket-free empty platform faces a veiled cascade (submitted)
+066. Birch forest — pale trunks repeat through silver rainfall (submitted)
 067. Redwood grove — vertical tilt follows water down immense bark
 068. Fern canyon — narrow tracking move between dripping green walls
 069. Snowmelt creek — rain hits clear water beside lingering mountain snow
