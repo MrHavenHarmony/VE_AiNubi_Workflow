@@ -12,7 +12,7 @@ A 16:9 cinematic photorealistic rain film. Each numbered item is planned as one 
 - Submit in batches of five; wait for capacity before starting the next batch.
 - Make every image prompt and camera move specific to its scene.
 
-The first 11 scene requests have been submitted during this run. Scenes 1–4 used generated stills with image-to-video prompts; scenes 5–11 used direct text-to-video. Submission does not mean the clips have finished rendering. Scenes 42–100 remain storyboard prompts awaiting generation.
+The first 11 scene requests have been submitted during this run. Scenes 1–4 used generated stills with image-to-video prompts; scenes 5–11 used direct text-to-video. Submission does not mean the clips have finished rendering. Scenes 47–100 remain storyboard prompts awaiting generation.
 
 ## Scene list
 
@@ -57,11 +57,11 @@ The first 11 scene requests have been submitted during this run. Scenes 1–4 us
 039. Neon-lit city window — raindrops distort colored signs into soft bokeh (submitted)
 040. Apartment balcony — close view of rain on railing with skyline beyond (submitted)
 041. Rooftop garden — camera passes wet planters and a city storm horizon (submitted)
-042. Glass skyscraper canyon — upward tilt as clouds race between towers
-043. Empty tram street — rails shine beneath amber lamps and distant thunder
-044. Subway stair entrance — rainwater streams down steps into warm underground light
-045. Night market awnings — rain spills from colorful fabric into empty lane
-046. Parking-garage rooftop — puddle reflections beneath low rolling clouds
+042. Glass skyscraper canyon — upward tilt as clouds race between towers (submitted)
+043. Empty tram street — rails shine beneath amber lamps and distant thunder (submitted)
+044. Subway stair entrance — rainwater streams down steps into warm underground light (submitted)
+045. Night market awnings — rain spills from colorful fabric into empty lane (submitted)
+046. Parking-garage rooftop — puddle reflections beneath low rolling clouds (submitted)
 047. Park gazebo — slow orbit around its rain-dark wooden posts
 048. Stone statue fountain — rain and fountain spray blend in a quiet square
 049. Botanical garden path — wet tropical leaves form a tunnel of green
