@@ -12,7 +12,7 @@ A 16:9 cinematic photorealistic rain film. Each numbered item is planned as one 
 - Submit in batches of five; wait for capacity before starting the next batch.
 - Make every image prompt and camera move specific to its scene.
 
-The first 11 scene requests have been submitted during this run. Scenes 1–4 used generated stills with image-to-video prompts; scenes 5–11 used direct text-to-video. Submission does not mean the clips have finished rendering. Scenes 97–100 remain storyboard prompts awaiting generation.
+The first 11 scene requests have been submitted during this run. Scenes 1–4 used generated stills with image-to-video prompts; scenes 5–11 used direct text-to-video. Submission does not mean the clips have finished rendering. All 100 scene prompts have been submitted to VideoExpress. Check each render in My AI Videos; prompt submission and completed rendering are separate states.
 
 ## Scene list
 
@@ -112,7 +112,7 @@ The first 11 scene requests have been submitted during this run. Scenes 1–4 us
 094. Old harbor lighthouse interior window — lantern glass beads with sea spray (submitted)
 095. Waterfront hotel veranda — empty chairs and long reflections after a storm (submitted)
 096. Sunrise over flooded salt flats — rain clouds thin into peach-colored light (submitted)
-097. Forest clearing at dawn — final drops fall from leaves as fog lifts
-098. Still lake at first light — last raindrop rings fade beneath a clearing sky
-099. Rain on a glass observatory dome — slow tilt from water beads to a cloud break at blue hour
-100. Storm clearing over a quiet harbor — final aerial pull-back as rain curtains retreat and silver water settles
+097. Forest clearing at dawn — final drops fall from leaves as fog lifts (submitted)
+098. Still lake at first light — last raindrop rings fade beneath a clearing sky (submitted)
+099. Rain on a glass observatory dome — slow tilt from water beads to a cloud break at blue hour (submitted)
+100. Storm clearing over a quiet harbor — final aerial pull-back as rain curtains retreat and silver water settles (submitted)
