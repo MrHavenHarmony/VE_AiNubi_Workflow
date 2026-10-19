@@ -46,4 +46,4 @@ A calm, cinematic rain film made from distinct 10-second landscape clips. This f
 
 ## Current run
 
-For the current 100-scene run, requests 1–100 have been submitted. Verify all renders in My AI Videos before assembling or exporting the final film. The Media Library shows active renders and previously completed AI video assets. Confirm all 100 clips are ready before assembling or exporting the final film. These sample prompts and settings do not certify that a completed combined film has been exported.
+For the current 100-scene run, requests 1–100 have been submitted. VideoExpress displayed its successful-generation notice, and rendered video assets appear in My AI Videos. Confirm the complete set of 100 clips in the library before assembling or exporting the final film. This workflow records the separate scene clips; it does not indicate that a combined film has been exported.
