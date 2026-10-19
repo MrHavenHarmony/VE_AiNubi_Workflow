@@ -12,7 +12,7 @@ A 16:9 cinematic photorealistic rain film. Each numbered item is planned as one 
 - Submit in batches of five; wait for capacity before starting the next batch.
 - Make every image prompt and camera move specific to its scene.
 
-The first 11 scene requests have been submitted during this run. Scenes 1–4 used generated stills with image-to-video prompts; scenes 5–11 used direct text-to-video. Submission does not mean the clips have finished rendering. Scenes 57–100 remain storyboard prompts awaiting generation.
+The first 11 scene requests have been submitted during this run. Scenes 1–4 used generated stills with image-to-video prompts; scenes 5–11 used direct text-to-video. Submission does not mean the clips have finished rendering. Scenes 62–100 remain storyboard prompts awaiting generation.
 
 ## Scene list
 
@@ -72,11 +72,11 @@ The first 11 scene requests have been submitted during this run. Scenes 1–4 us
 054. Waterfront cottage steps — runoff descends beside a glowing doorway (submitted)
 055. Farmhouse windmill — blades turn slowly against a summer thunderhead (submitted)
 056. Red barn and silo — rain crosses a harvested field at dusk (submitted)
-057. Covered market arcade — repeated stone columns reflect warm lanterns
-058. Clocktower square — rain veils the dial as the hour chimes silently
-059. Old stone fountain alley — water overflows into patterned paving
-060. Canal-side brick warehouses — mooring ropes and ripples in blue twilight
-061. Harbor breakwater — low push toward waves breaking over wet stone
+057. Covered market arcade — repeated stone columns reflect warm lanterns (submitted)
+058. Clocktower square — rain veils the dial as the hour chimes silently (submitted)
+059. Old stone fountain alley — water overflows into patterned paving (submitted)
+060. Canal-side brick warehouses — mooring ropes and ripples in blue twilight (submitted)
+061. Harbor breakwater — low push toward waves breaking over wet stone (submitted)
 062. Cliffside chapel — rain clouds part briefly behind a small bell tower
 063. Alpine glacier lake — wind-driven rain textures turquoise water
 064. Highland moor — lone stream winds through heather beneath distant thunder
