@@ -12,7 +12,7 @@ A 16:9 cinematic photorealistic rain film. Each numbered item is planned as one 
 - Submit in batches of five; wait for capacity before starting the next batch.
 - Make every image prompt and camera move specific to its scene.
 
-The first 11 scene requests have been submitted during this run. Scenes 1–4 used generated stills with image-to-video prompts; scenes 5–11 used direct text-to-video. Submission does not mean the clips have finished rendering. Scenes 27–100 remain storyboard prompts awaiting generation.
+The first 11 scene requests have been submitted during this run. Scenes 1–4 used generated stills with image-to-video prompts; scenes 5–11 used direct text-to-video. Submission does not mean the clips have finished rendering. Scenes 32–100 remain storyboard prompts awaiting generation.
 
 ## Scene list
 
@@ -42,11 +42,11 @@ The first 11 scene requests have been submitted during this run. Scenes 1–4 us
 024. Shipwreck shore — slow orbit around a weathered hull in storm surf (submitted)
 025. Harbor sailboats — mast lines sway against slate clouds and rain (submitted)
 026. Fishing village docks — lanterns glow above rain-soaked mooring posts (submitted)
-027. Flooded meadow — wind draws ripples through silver grass
-028. Desert monsoon dunes — rain channels carve dark lines through ochre sand
-029. Red-rock canyon — crane reveal of a sudden rain-fed wash
-030. Cave waterfall chamber — still pool catches drops beneath stone arches
-031. Ancient aqueduct — tracking along wet arches fading into mist
+027. Flooded meadow — wind draws ripples through silver grass (submitted)
+028. Desert monsoon dunes — rain channels carve dark lines through ochre sand (submitted)
+029. Red-rock canyon — crane reveal of a sudden rain-fed wash (submitted)
+030. Cave waterfall chamber — still pool catches drops beneath stone arches (submitted)
+031. Ancient aqueduct — tracking along wet arches fading into mist (submitted)
 032. Monastery courtyard — rain gathers in a quiet central basin
 033. Pagoda roofline — tilt through layered eaves and falling rain
 034. Moss-covered castle ruin — push through an open arch toward a stormy garden
