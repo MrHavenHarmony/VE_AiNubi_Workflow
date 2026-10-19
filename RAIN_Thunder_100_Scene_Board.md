@@ -12,7 +12,7 @@ A 16:9 cinematic photorealistic rain film. Each numbered item is planned as one 
 - Submit in batches of five; wait for capacity before starting the next batch.
 - Make every image prompt and camera move specific to its scene.
 
-The first 11 scene requests have been submitted during this run. Scenes 1–4 used generated stills with image-to-video prompts; scenes 5–11 used direct text-to-video. Submission does not mean the clips have finished rendering. Scenes 37–100 remain storyboard prompts awaiting generation.
+The first 11 scene requests have been submitted during this run. Scenes 1–4 used generated stills with image-to-video prompts; scenes 5–11 used direct text-to-video. Submission does not mean the clips have finished rendering. Scenes 42–100 remain storyboard prompts awaiting generation.
 
 ## Scene list
 
@@ -52,11 +52,11 @@ The first 11 scene requests have been submitted during this run. Scenes 1–4 us
 034. Moss-covered castle ruin — push through an open arch toward a stormy garden (submitted)
 035. Old watermill — wheel turns slowly under a heavy rain stream (submitted)
 036. Railway tunnel portal — water runs from the stone mouth into fog (submitted)
-037. Suspension bridge — wide view of cables vanishing into rain cloud
-038. Stone viaduct — long lateral shot above a mist-filled valley
-039. Neon-lit city window — raindrops distort colored signs into soft bokeh
-040. Apartment balcony — close view of rain on railing with skyline beyond
-041. Rooftop garden — camera passes wet planters and a city storm horizon
+037. Suspension bridge — wide view of cables vanishing into rain cloud (submitted)
+038. Stone viaduct — long lateral shot above a mist-filled valley (submitted)
+039. Neon-lit city window — raindrops distort colored signs into soft bokeh (submitted)
+040. Apartment balcony — close view of rain on railing with skyline beyond (submitted)
+041. Rooftop garden — camera passes wet planters and a city storm horizon (submitted)
 042. Glass skyscraper canyon — upward tilt as clouds race between towers
 043. Empty tram street — rails shine beneath amber lamps and distant thunder
 044. Subway stair entrance — rainwater streams down steps into warm underground light
