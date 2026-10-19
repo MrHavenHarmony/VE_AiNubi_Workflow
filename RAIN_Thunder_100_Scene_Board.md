@@ -12,7 +12,7 @@ A 16:9 cinematic photorealistic rain film. Each numbered item is planned as one 
 - Submit in batches of five; wait for capacity before starting the next batch.
 - Make every image prompt and camera move specific to its scene.
 
-The first 11 scene requests have been submitted during this run. Scenes 1–4 used generated stills with image-to-video prompts; scenes 5–11 used direct text-to-video. Submission does not mean the clips have finished rendering. Scenes 47–100 remain storyboard prompts awaiting generation.
+The first 11 scene requests have been submitted during this run. Scenes 1–4 used generated stills with image-to-video prompts; scenes 5–11 used direct text-to-video. Submission does not mean the clips have finished rendering. Scenes 52–100 remain storyboard prompts awaiting generation.
 
 ## Scene list
 
@@ -62,11 +62,11 @@ The first 11 scene requests have been submitted during this run. Scenes 1–4 us
 044. Subway stair entrance — rainwater streams down steps into warm underground light (submitted)
 045. Night market awnings — rain spills from colorful fabric into empty lane (submitted)
 046. Parking-garage rooftop — puddle reflections beneath low rolling clouds (submitted)
-047. Park gazebo — slow orbit around its rain-dark wooden posts
-048. Stone statue fountain — rain and fountain spray blend in a quiet square
-049. Botanical garden path — wet tropical leaves form a tunnel of green
-050. Glass atrium — rain trails across high panes above indoor palms
-051. Library window alcove — rain shadows move over shelves and a warm reading lamp
+047. Park gazebo — slow orbit around its rain-dark wooden posts (submitted)
+048. Stone statue fountain — rain and fountain spray blend in a quiet square (submitted)
+049. Botanical garden path — wet tropical leaves form a tunnel of green (submitted)
+050. Glass atrium — rain trails across high panes above indoor palms (submitted)
+051. Library window alcove — rain shadows move over shelves and a warm reading lamp (submitted)
 052. Conservatory orchid bench — macro view of droplets on petals and glass
 053. Mountain lodge porch — rain sweeps past a chair toward a pine valley
 054. Waterfront cottage steps — runoff descends beside a glowing doorway
