@@ -12,7 +12,7 @@ A 16:9 cinematic photorealistic rain film. Each numbered item is planned as one 
 - Submit in batches of five; wait for capacity before starting the next batch.
 - Make every image prompt and camera move specific to its scene.
 
-The first 11 scene requests have been submitted during this run. Scenes 1–4 used generated stills with image-to-video prompts; scenes 5–11 used direct text-to-video. Submission does not mean the clips have finished rendering. Scenes 82–100 remain storyboard prompts awaiting generation.
+The first 11 scene requests have been submitted during this run. Scenes 1–4 used generated stills with image-to-video prompts; scenes 5–11 used direct text-to-video. Submission does not mean the clips have finished rendering. Scenes 87–100 remain storyboard prompts awaiting generation.
 
 ## Scene list
 
@@ -97,11 +97,11 @@ The first 11 scene requests have been submitted during this run. Scenes 1–4 us
 079. Remote island pier — single beacon reflected in a wind-ruffled bay (submitted)
 080. Arctic fjord — fine rain and sea mist drift before dark cliffs (submitted)
 081. Temperate fjord waterfall — distant falls merge with cloud and rain (submitted)
-082. Volcanic crater lake — low clouds circle the rim above dark water
-083. Geothermal hot spring — rain rings form through rising steam
-084. Basalt columns — wet geometric cliffs frame breaking waves
-085. Water-carved slot canyon — trickles trace red sandstone in a soft storm
-086. Desert oasis — palm reflections shimmer under a brief rainfall
+082. Volcanic crater lake — low clouds circle the rim above dark water (submitted)
+083. Geothermal hot spring — rain rings form through rising steam (submitted)
+084. Basalt columns — wet geometric cliffs frame breaking waves (submitted)
+085. Water-carved slot canyon — trickles trace red sandstone in a soft storm (submitted)
+086. Desert oasis — palm reflections shimmer under a brief rainfall (submitted)
 087. Prairie grain silo — rain sweeps across a flat horizon at sunset
 088. Open wheat field — bowed stalks ripple beneath a distant thunder roll
 089. Meadow footpath — puddles reflect wildflowers and a clearing sky
