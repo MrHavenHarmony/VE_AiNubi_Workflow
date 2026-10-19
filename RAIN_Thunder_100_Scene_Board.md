@@ -12,7 +12,7 @@ A 16:9 cinematic photorealistic rain film. Each numbered item is planned as one 
 - Submit in batches of five; wait for capacity before starting the next batch.
 - Make every image prompt and camera move specific to its scene.
 
-The first 11 scene requests have been submitted during this run. Scenes 1–4 used generated stills with image-to-video prompts; scenes 5–11 used direct text-to-video. Submission does not mean the clips have finished rendering. Scenes 77–100 remain storyboard prompts awaiting generation.
+The first 11 scene requests have been submitted during this run. Scenes 1–4 used generated stills with image-to-video prompts; scenes 5–11 used direct text-to-video. Submission does not mean the clips have finished rendering. Scenes 82–100 remain storyboard prompts awaiting generation.
 
 ## Scene list
 
@@ -92,11 +92,11 @@ The first 11 scene requests have been submitted during this run. Scenes 1–4 us
 074. Tea plantation hillside — parallel rows disappear into low cloud (submitted)
 075. Coffee plantation path — droplets fall from broad leaves above dark soil (submitted)
 076. Banana grove — rain drums on broad leaves with distant thunder (submitted)
-077. Coconut shoreline — palms bend gently above a rain-swept lagoon
-078. Coral-island lagoon — rain dimples shallow turquoise water beneath gray sky
-079. Remote island pier — single beacon reflected in a wind-ruffled bay
-080. Arctic fjord — fine rain and sea mist drift before dark cliffs
-081. Temperate fjord waterfall — distant falls merge with cloud and rain
+077. Coconut shoreline — palms bend gently above a rain-swept lagoon (submitted)
+078. Coral-island lagoon — rain dimples shallow turquoise water beneath gray sky (submitted)
+079. Remote island pier — single beacon reflected in a wind-ruffled bay (submitted)
+080. Arctic fjord — fine rain and sea mist drift before dark cliffs (submitted)
+081. Temperate fjord waterfall — distant falls merge with cloud and rain (submitted)
 082. Volcanic crater lake — low clouds circle the rim above dark water
 083. Geothermal hot spring — rain rings form through rising steam
 084. Basalt columns — wet geometric cliffs frame breaking waves
