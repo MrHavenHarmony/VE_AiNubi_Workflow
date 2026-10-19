@@ -12,7 +12,7 @@ A 16:9 cinematic photorealistic rain film. Each numbered item is planned as one 
 - Submit in batches of five; wait for capacity before starting the next batch.
 - Make every image prompt and camera move specific to its scene.
 
-The first 11 scene requests have been submitted during this run. Scenes 1–4 used generated stills with image-to-video prompts; scenes 5–11 used direct text-to-video. Submission does not mean the clips have finished rendering. Scenes 22–100 remain storyboard prompts awaiting generation.
+The first 11 scene requests have been submitted during this run. Scenes 1–4 used generated stills with image-to-video prompts; scenes 5–11 used direct text-to-video. Submission does not mean the clips have finished rendering. Scenes 27–100 remain storyboard prompts awaiting generation.
 
 ## Scene list
 
@@ -37,11 +37,11 @@ The first 11 scene requests have been submitted during this run. Scenes 1–4 us
 019. River ferry landing — empty wooden pier disappears into rain fog (submitted)
 020. Old canal bend — reflections stretch beneath stone bridges (submitted)
 021. Seaside boardwalk — wave spray crosses rain-glossed planks (submitted)
-022. Black-sand beach — oblique view of rain curtains over foaming surf
-023. Sea cave mouth — camera withdraws as rain and tide meet at the threshold
-024. Shipwreck shore — slow orbit around a weathered hull in storm surf
-025. Harbor sailboats — mast lines sway against slate clouds and rain
-026. Fishing village docks — lanterns glow above rain-soaked mooring posts
+022. Black-sand beach — oblique view of rain curtains over foaming surf (submitted)
+023. Sea cave mouth — camera withdraws as rain and tide meet at the threshold (submitted)
+024. Shipwreck shore — slow orbit around a weathered hull in storm surf (submitted)
+025. Harbor sailboats — mast lines sway against slate clouds and rain (submitted)
+026. Fishing village docks — lanterns glow above rain-soaked mooring posts (submitted)
 027. Flooded meadow — wind draws ripples through silver grass
 028. Desert monsoon dunes — rain channels carve dark lines through ochre sand
 029. Red-rock canyon — crane reveal of a sudden rain-fed wash
