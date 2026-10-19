@@ -12,7 +12,7 @@ A 16:9 cinematic photorealistic rain film. Each numbered item is planned as one 
 - Submit in batches of five; wait for capacity before starting the next batch.
 - Make every image prompt and camera move specific to its scene.
 
-The first 11 scene requests have been submitted during this run. Scenes 1–4 used generated stills with image-to-video prompts; scenes 5–11 used direct text-to-video. Submission does not mean the clips have finished rendering. All 100 scene prompts have been submitted to VideoExpress. Check each render in My AI Videos; prompt submission and completed rendering are separate states.
+All 100 unique scene requests have been submitted to VideoExpress in batches of five (the final batch contained four). The latest generation displayed VideoExpress’s successful-completion notice, and rendered video assets appear in My AI Videos. Each entry is a separate clip; check the complete set in the library before assembling or exporting the film.
 
 ## Scene list
 
